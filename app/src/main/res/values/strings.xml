@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">My_Work</string>
+    <string name="app_name">Films</string>
+    <string name="recurs">Постеры взяты с https://yandex.ru/images</string>
+    <string name="btm_menu">МЕНЮ</string>
+    <string name="btm_best">ИЗБРАННОЕ</string>
+    <string name="btm_see_laite">ПОСМОТРЕТЬ ПОЗЖЕ</string>
+    <string name="btm_box_new">НОВИНКИ</string>
+    <string name="btm_settings">НАСТРОЙКИ</string>
 </resources>
