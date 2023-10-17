@@ -5,5 +5,9 @@
     <string name="btm_best">ИЗБРАННОЕ</string>
     <string name="btm_see_laite">ПОСМОТРЕТЬ ПОЗЖЕ</string>
     <string name="btm_box_new">НОВИНКИ</string>
-    <string name="btm_settings">НАСТРОЙКИ</string>
+    <string name="btm_settings">Настройки</string>
+    <string name="page_title">SEARCH IT</string>
+    <string name="menu_favorites_title">ИЗБРАННОЕ</string>
+    <string name="menu_watch_later_title">ПОСМОТРЕТЬ ПОЗЖЕ</string>
+    <string name="menu_selections_title">ПОДБОРКИ</string>
 </resources>
